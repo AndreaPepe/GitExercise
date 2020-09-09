@@ -5,4 +5,4 @@ Hemoglobin_beta   Human   HBB_HUMAN   P68871
 PFKM              Human   PFKM_HUMAN  P08237
 PFKM              Mouse   PFKM_MOUSE  P47857
 
-This is clearly a mistake!!!!
+This is clearly a mistake!
